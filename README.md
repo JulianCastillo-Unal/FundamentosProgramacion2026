@@ -23,6 +23,4 @@
 <h2><a href="mailto:jacastil@unal.edu.co">✉ Julián Castillo</a></h2>
 
 <hr size=1 noshade color="black">
-
-<hr size=10 noshade color="purple">
 </div>
