@@ -7,7 +7,7 @@
 <p>
 <h6 align="center"> <b> </b> </h6>
 <h1 align="center"> <b> Fundamentos de Programación </b> </h1>
-<h2 align="center"> <b> Clase 01 </b> </h2>
+<h2 align="center"> <b> Imagenes </b> </h2>
 <hr size=10 noshade color="gray">
 </p>
 <p>
