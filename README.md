@@ -22,11 +22,13 @@
 <div align="right">
 <h1> <strong>Docente: Julián Castillo </strong></h1>
 <h2><a href="mailto:jacastil@unal.edu.co">✉ Julián Castillo</a></h2>
+<h3>Profesor Asistente - Departamento de Ciencias de la Computación y de la Decisión</h3>
 <h3>Teoría Grupos 19, 20 y 21 (Jueves 14-16 -> 12-201)</h3>
 <h3>Practicas Grupos 20 y 21 (Viernes 8-10 y 10-12 -> 04-205)</h3>
 
 <h1> <strong>Docente: John Ballesteros </strong></h1>
 <h2><a href="mailto:jballes@unal.edu.co">✉ John Ballesteros</a></h2>
+<h3>Profesor Titular - Departamento de Ciencias de la Computación y de la Decisión</h3>
 <h3>Practicas Grupo 19 (Viernes 6-8 -> 04-205)</h3>
 
 <hr size=1 noshade color="black">
