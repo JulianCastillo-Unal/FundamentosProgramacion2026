@@ -17,10 +17,17 @@
 <br></br><br></br>
 </p>
 
+
 <hr size=1 noshade color="black">
 <div align="right">
 <h1> <strong>Docente: Julián Castillo </strong></h1>
 <h2><a href="mailto:jacastil@unal.edu.co">✉ Julián Castillo</a></h2>
+<h3>Teoría Grupos 19, 20 y 21</h3>
+<h3>Practicas Grupos 20 y 21</h3>
+
+<h1> <strong>Docente: John Ballesteros </strong></h1>
+<h2><a href="mailto:jballes@unal.edu.co">✉ John Ballesteros</a></h2>
+<h3>Practicas Grupo 19</h3>
 
 <hr size=1 noshade color="black">
 </div>
