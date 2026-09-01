@@ -17,7 +17,6 @@
 <img alt="SA" height="70px" src="https://creativecommons.org/images/deed/sa_blue_x2.png" align="left" hspace="0px" vspace="0px">
 <br></br><br></br>
 </p>
-
 <hr size=1 noshade color="black">
 <div align="right">
 <h1> <strong>Docente: Julián Castillo </strong></h1>
