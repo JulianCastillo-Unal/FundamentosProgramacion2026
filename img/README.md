@@ -1,5 +1,5 @@
 <div align="center">
-<p><img alt="Unal" height="150px" src="https://minas.medellin.unal.edu.co/proyectos/one-health-consortium/images/unal.png" align="center" hspace="10px" vspace="0px"></p>
+<p><img alt="Unal" height="150px" src="https://minas.medellin.unal.edu.co/media/templates/site/unal/images/escudoUnal_black.png" align="center" hspace="10px" vspace="0px"></p>
 </div>
 <div> </div>
 
